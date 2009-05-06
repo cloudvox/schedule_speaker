@@ -1,8 +1,10 @@
 == Getting Started
 
 1. Create DB tablespaces, edit config/database.yml, and run: rake db:migrate
+
 2. Import events: rake import_events FILENAME=doc/railsconf08_schedule.ica
 3. Edit phone/config/startup.rb to set Asterisk/Cloudvox settings and Rails env
+   (see phone/config/startup.rb.template)
 
 4. Start Rails:      script/server -d
 5. Start Adhearsion: ahn start phone/

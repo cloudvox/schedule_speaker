@@ -1,0 +1,3 @@
+default {
+  sgt_railsconf
+}
