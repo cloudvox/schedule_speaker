@@ -1,0 +1,1600 @@
+BEGIN:VCALENDAR
+X-WR-CALNAME:RailsConf 2009
+VERSION:2.0
+PRODID:Expectnation
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090504T120000
+DTSTART;TZID=US/Pacific:20090504T083000
+DTSTAMP:20090506T005433
+LOCATION:Ballroom A
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7787
+UID:http://railsconf.com/--s2009-05-04-08:30--7787
+SUMMARY:JRuby on Rails
+DESCRIPTION:Presented by Nick Sieger (Sun Microsystems, Inc.). Get an in
+ troduction to the JRuby ecosystem and all it offers for Rails developmen
+ t and deployment, including setup, gems, java integration, application s
+ ervers, virtual machine tuning, custom embedding, and more.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090504T120000
+DTSTART;TZID=US/Pacific:20090504T083000
+DTSTAMP:20090505T235302
+LOCATION:Ballroom B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7364
+UID:http://railsconf.com/--s2009-05-04-08:30--7364
+SUMMARY:A-Z Introduction to Ruby on Rails
+DESCRIPTION:Presented by Robert Dempsey (Atlantic Dominion Solutions). M
+ any come to RailsConf without being in the Rails world for very long, an
+ d are looking for a simple introduction to get started. Robert Dempsey w
+ ill take you through the A-Z introduction to Rails, from MVC to what's w
+ here in a Rails app.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090504T120000
+DTSTART;TZID=US/Pacific:20090504T083000
+DTSTAMP:20090506T005439
+LOCATION:Pavilion 2 - 3
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7763
+UID:http://railsconf.com/--s2009-05-04-08:30--7763
+SUMMARY:Running the Show: Configuration Management with Chef
+DESCRIPTION:Presented by Edd Dumbill (O'Reilly Media, Inc. ). Few comple
+ ted Rails apps are architecturally simple. As soon as you grow, you find
+  yourself using multiple subsystems and machines to scale, creating new 
+ headaches in configuration management. Help is at hand! This tutorial in
+ troduces Chef, a modern Ruby-based open source approach to systems integ
+ ration. Chef lets you manage your servers by writing code, not running c
+ ommands.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090504T120000
+DTSTART;TZID=US/Pacific:20090504T083000
+DTSTAMP:20090506T005424
+LOCATION:Pavilion 9 - 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7589
+UID:http://railsconf.com/--s2009-05-04-08:30--7589
+SUMMARY:jQuery on Rails
+DESCRIPTION:Presented by Yehuda Katz (Engine Yard Inc.). Coming soon.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090504T170000
+DTSTART;TZID=US/Pacific:20090504T083000
+DTSTAMP:20090130T185033
+LOCATION:Pavilion 4
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8009
+UID:http://railsconf.com/--s2009-05-04-08:30--8009
+SUMMARY:Caboose Conf
+DESCRIPTION:CabooseConf is the free, hacker-focused part of RailsConf. S
+ killed Rails coders from all over the world will meet in one room to net
+ work, hack and work on their rails projects.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090504T170000
+DTSTART;TZID=US/Pacific:20090504T133000
+DTSTAMP:20090506T003757
+LOCATION:Ballroom A
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7786
+UID:http://railsconf.com/--s2009-05-04-13:30--7786
+SUMMARY:Testing, Design, and Refactoring
+DESCRIPTION:Presented by Jim Weirich (EdgeCase LLC), Joe O'Brien (EdgeCa
+ se, LLC). Everyone seems to be on the TDD/BDD bandwagon these days.  We 
+ have gotten very good at the first two phases of the Red/Green/Refactor 
+ cycle.  But in our push toward releasing new code and functionality, som
+ etimes the Refactor phase gets the short end of the stick. Sadly, withou
+ t refactoring, our code base can quickly become a nightmare of highly co
+ upled, highly redundant code.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090504T170000
+DTSTART;TZID=US/Pacific:20090504T133000
+DTSTAMP:20090506T005449
+LOCATION:Ballroom B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7590
+UID:http://railsconf.com/--s2009-05-04-13:30--7590
+SUMMARY:A Hat Full of Tricks with Sinatra
+DESCRIPTION:Presented by Blake Mizerany (Heroku). Sinatra is Ruby's most
+  powerful and agile micro-framework.  This small package packs a huge pu
+ nch.  Learn why you need this tool on your belt and how to use it proper
+ ly.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090504T170000
+DTSTART;TZID=US/Pacific:20090504T133000
+DTSTAMP:20090506T005446
+LOCATION:Pavilion 2 - 3
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/6965
+UID:http://railsconf.com/--s2009-05-04-13:30--6965
+SUMMARY:Building Next Generation Web Apps with Rails and SproutCore
+DESCRIPTION:Presented by Mike Subelsky (OtherInbox). Future web apps wil
+ l be built on the client-server model: faster, more fluid, desktop-like 
+ apps that cannot be fully realized with traditional Rails techniques for
+  building browser views.  But Rails is the perfect server framework to i
+ ntegrate with SproutCore, an exciting new framework for building web bro
+ wser clients. Students will build a full-fledged client-server app using
+  both frameworks.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090504T170000
+DTSTART;TZID=US/Pacific:20090504T133000
+DTSTAMP:20090506T005453
+LOCATION:Pavilion 9 - 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7770
+UID:http://railsconf.com/--s2009-05-04-13:30--7770
+SUMMARY:Solving the Riddle of Search: Using Sphinx with Rails
+DESCRIPTION:Presented by Pat Allan (Freelancing Gods). The more complex 
+ your search queries becomes, the uglier your SQL statements get, even wi
+ th ActiveRecord's helpful magic. Reclaim some clarity in your code by us
+ ing the Sphinx search engine, a powerful tool that lets you search acros
+ s your models in fast and complex ways.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090504T203000
+DTSTART;TZID=US/Pacific:20090504T193000
+DTSTAMP:20090506T005351
+LOCATION:Pavilion 2 - 3
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9157
+UID:http://railsconf.com/--s2009-05-04-19:30--9157
+SUMMARY:MagLev Ruby BOF
+DESCRIPTION:We've spent the last year implementing Ruby on top of GemSto
+ ne's newest 64-bit VM. Has it been a Lovefest or a Deathmatch? Come to o
+ ur BOF and find out.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090504T203000
+DTSTART;TZID=US/Pacific:20090504T193000
+DTSTAMP:20090423T024045
+LOCATION:Pavilion 9 - 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9089
+UID:http://railsconf.com/--s2009-05-04-19:30--9089
+SUMMARY:Agile Estimation
+DESCRIPTION:With Agile methods, we give the developer more control over 
+ the project. A key component of feature prioritization is estimation. In
+  this BoF we'll review Agile Estimation techniques and discuss issues th
+ at attendees are currently facing.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090504T203000
+DTSTART;TZID=US/Pacific:20090504T193000
+DTSTAMP:20090505T031154
+LOCATION:Pavilion 1
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9191
+UID:http://railsconf.com/--s2009-05-04-19:30--9191
+SUMMARY:Internationalization of Ruby on Rails Applications
+DESCRIPTION:Christophe Lucas will be demonstrating solutions for interna
+ tionalization globalization and localization of Ruby on Rails applicatio
+ ns of Ruby on Rails applications following standards like I18n or L10n.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090504T203000
+DTSTART;TZID=US/Pacific:20090504T193000
+DTSTAMP:20090505T223847
+LOCATION:Conference Room 9
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9037
+UID:http://railsconf.com/--s2009-05-04-19:30--9037
+SUMMARY:Deploying and Scaling with Amazon Web Services (with Help from R
+ ubber)
+DESCRIPTION:Cloud computing is all the rage these days, learn one method
+  for deploying your rails apps into the cloud using capistrano and rubbe
+ r.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090504T213000
+DTSTART;TZID=US/Pacific:20090504T203000
+DTSTAMP:20090505T160905
+LOCATION:Pavilion 2 - 3
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9221
+UID:http://railsconf.com/--s2009-05-04-20:30--9221
+SUMMARY:Teaching Rails
+DESCRIPTION:The Rails community has a plethora of experienced, talented 
+ developers, who have contributed a great deal of advanced work to the ec
+ osystem. As a group, however, we've lacked a consistent and welcoming ap
+ proach for newcomers, be they programming newbies or people experienced 
+ in another technology. Let's talk about ways to fix that!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090504T213000
+DTSTART;TZID=US/Pacific:20090504T203000
+DTSTAMP:20090505T053809
+LOCATION:Pavilion 1
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9193
+UID:http://railsconf.com/--s2009-05-04-20:30--9193
+SUMMARY:Search with Using Sphinx and Thinking Sphinx, Lessons Learned
+DESCRIPTION:Christophe Lucas is going to talk about time-saving solution
+ s and workarounds to improve search using Sphinx and Thinking Sphinx.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T171500
+DTSTART;TZID=US/Pacific:20090505T090000
+DTSTAMP:20090505T214254
+LOCATION:Pavilion 4
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8006
+UID:http://railsconf.com/--s2009-05-05-09:00--8006
+SUMMARY:Caboose Conf
+DESCRIPTION:CabooseConf is the free, hacker-focused part of RailsConf. S
+ killed Rails coders from all over the world will meet in one room to net
+ work, hack and work on their rails projects.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T101500
+DTSTART;TZID=US/Pacific:20090505T091500
+DTSTAMP:20090506T005517
+LOCATION:Ballroom A-B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9035
+UID:http://railsconf.com/--s2009-05-05-09:15--9035
+SUMMARY:Rails 3 and the Real Secret to High Productivity
+DESCRIPTION:Presented by David Heinemeier Hansson (37signals). Keynote b
+ y David Heinemeier Hansson.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T113500
+DTSTART;TZID=US/Pacific:20090505T104500
+DTSTAMP:20090506T005045
+LOCATION:Ballroom A
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7843
+UID:http://railsconf.com/--s2009-05-05-10:45--7843
+SUMMARY:The GitHub Panel
+DESCRIPTION:Presented by Chris Wanstrath (GitHub), Tom Preston-Werner (G
+ itHub), PJ Hyett (GitHub), Scott Chacon (GitHub), Jon Maddox (Mustache, 
+ Inc.). The four full time GitHub employees talk about open source, commu
+ nity, building a business, and the future of social coding.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T113500
+DTSTART;TZID=US/Pacific:20090505T104500
+DTSTAMP:20090506T005736
+LOCATION:Ballroom B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8474
+UID:http://railsconf.com/--s2009-05-05-10:45--8474
+SUMMARY:Don't Mock Yourself Out
+DESCRIPTION:Presented by David Chelimsky (Articulated Man, Inc). Used ap
+ propriately, mock objects are a powerful design tool that can lead to hi
+ ghly maintainable applications. Used in the wrong context, they can lead
+  to painfully brittle test suites. Attendees will leave this session wit
+ h more insight into mock objects, and a better handle on when it makes s
+ ense to use them.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T113500
+DTSTART;TZID=US/Pacific:20090505T104500
+DTSTAMP:20090506T000852
+LOCATION:Pavilion 2 - 3
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8505
+UID:http://railsconf.com/--s2009-05-05-10:45--8505
+SUMMARY:The Gilt Effect: Handling 1000 Shopping Cart Updates per second 
+ in Rails
+DESCRIPTION:Presented by Scott Penberthy (Gilt Groupe), Michael Bryzek (
+ Gilt Groupe), Geir Magnusson Jr (Gilt Groupe), Yonatan Feldman (Gilt Gro
+ upe). Gilt Groupe is a fascinating e-commerce business, where luxury ite
+ ms are sold at a discount in "flash" sales that mimic the New York sampl
+ e sale experience. In this model, passionate buyers rush to grab items i
+ n a time-sensitive shopping cart, choose what they want, and check out w
+ ithin seconds.  We discuss how to handle flash-floods of shopping cart u
+ pdates via sharding in Rails.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T113500
+DTSTART;TZID=US/Pacific:20090505T104500
+DTSTAMP:20090506T005431
+LOCATION:Pavilion 9 - 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8497
+UID:http://railsconf.com/--s2009-05-05-10:45--8497
+SUMMARY:The Even-Darker Art of Rails Engines
+DESCRIPTION:Presented by James Adam (Free Range). A no-nonsense guide to
+  making the most of the newly-integrated "engines" functionality in Rail
+ s 2.3, from the guy who wrote the engines plugin itself.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T113500
+DTSTART;TZID=US/Pacific:20090505T104500
+DTSTAMP:20090506T003544
+LOCATION:Pavilion 1
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9054
+UID:http://railsconf.com/--s2009-05-05-10:45--9054
+SUMMARY:Crate: Packaging Standalone Ruby Applications
+DESCRIPTION:Presented by Jeremy Hinegardner (Collective Intellect). Some
+ times the best solution is a standalone application that you can give to
+  a client or customer to just drop on a machine and run. This talk will 
+ cover the Crate project and how it may be used to package your applicati
+ on, be it commandline, server, or web application.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T123500
+DTSTART;TZID=US/Pacific:20090505T114500
+DTSTAMP:20090506T003606
+LOCATION:Ballroom A
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8004
+UID:http://railsconf.com/--s2009-05-05-11:45--8004
+SUMMARY:In Praise of Non-Fixtured Data
+DESCRIPTION:Presented by Kevin Barnes (OG Consulting). This talk explore
+ s why fixtures are mostly bad, what can be done to “fix” the unmanageabl
+ e miscreant that fixtures have evolved into, and cross-examines the new 
+ breed of data generators.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T123500
+DTSTART;TZID=US/Pacific:20090505T114500
+DTSTAMP:20090505T224257
+LOCATION:Ballroom B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8772
+UID:http://railsconf.com/--s2009-05-05-11:45--8772
+SUMMARY:Discussion Panel: Women In Rails
+DESCRIPTION:Presented by Desi McAdam (Hashrocket Inc and DevChix Inc), S
+ arah Mei (LookSmart), Lori Olson (Dragon Sharp Consulting). Meet some of
+  the women from the Rails community. Hear about their experiences and wh
+ at they have to say about how to bring more female programmers into our 
+ already amazing community, as well as how to get them more involved and 
+ active in it once they're here.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T123500
+DTSTART;TZID=US/Pacific:20090505T114500
+DTSTAMP:20090506T005322
+LOCATION:Pavilion 2 - 3
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7879
+UID:http://railsconf.com/--s2009-05-05-11:45--7879
+SUMMARY:PWN Your Infrastructure: Behind Call of Duty: World at War
+DESCRIPTION:Presented by Jason LaPorte (Agora Games). Agora Games has sp
+ ent a significant amount of time developing the virtualized infrastructu
+ re behind Call of Duty: World at War, centering around a Rails stack tha
+ t tracks the statistics for millions of players. In this talk, we'll des
+ cribe how we built this architecture, how it varies from a more traditio
+ nal Rails infrastructure, and the lessons we've learned doing so.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T123500
+DTSTART;TZID=US/Pacific:20090505T114500
+DTSTAMP:20090506T005814
+LOCATION:Pavilion 9 - 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7073
+UID:http://railsconf.com/--s2009-05-05-11:45--7073
+SUMMARY:UI Fundamentals for Programmers
+DESCRIPTION:Presented by Ryan Singer (37signals). Ryan will explain the 
+ key concepts you should understand to design and implement UI for your a
+ pps. He'll cover screen-level details like language and visual technique
+ s as well as implementation issues like modeling, markup, and view code.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T123500
+DTSTART;TZID=US/Pacific:20090505T114500
+DTSTAMP:20090506T002256
+LOCATION:Pavilion 1
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8622
+UID:http://railsconf.com/--s2009-05-05-11:45--8622
+SUMMARY:Rails Is from Mars, Ruby Is from Venus
+DESCRIPTION:Presented by Rein Henrichs (Hashrocket). How Learning Ruby C
+ an Make You a Happier Rails Developer. Basic Ruby practices and idioms t
+ hat will put the fun back in your relationship!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T144000
+DTSTART;TZID=US/Pacific:20090505T135000
+DTSTAMP:20090506T002307
+LOCATION:Ballroom A
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8752
+UID:http://railsconf.com/--s2009-05-05-13:50--8752
+SUMMARY:The Future of Deployment: A Killer Panel
+DESCRIPTION:Presented by Marc-André Cournoyer (Standout Jobs), Christian
+  Neukirchen (Rack Core Team), Blake Mizerany (Heroku), Ryan Tomayko (Her
+ oku), Adam Wiggins (Heroku), James Lindenbaum (Heroku). The way we deplo
+ y ruby apps is changing.  This is a a rare opportunity to discuss issues
+  and ideas in real time, directly with the key people from each part of 
+ the stack, all in one room. This is truly a killer line-up:  Marc-André 
+ Cournoyer (Thin), Christian Neukirchen (Rack), Ryan Tomayko (Rack::Cache
+ , Sinatra), Blake Mizerany (Sinatra), Adam Wiggins and James Lindenbaum 
+ (Heroku)
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T144000
+DTSTART;TZID=US/Pacific:20090505T135000
+DTSTAMP:20090506T004810
+LOCATION:Ballroom B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8013
+UID:http://railsconf.com/--s2009-05-05-13:50--8013
+SUMMARY:JavaScript Testing in Rails: Fast, Headless, In-Browser. Pick An
+ y Three.
+DESCRIPTION:Presented by Larry Karnowski (Relevance, Inc.), Jason Rudolp
+ h (Relevance, Inc.). Learn how to enjoy the benefits of test-driven deve
+ lopment beyond just your Ruby on Rails code; JavaScript is code too, and
+  it deserves tests! With the help of some handy plugins, Rails lets you 
+ test your unobtrusive JavaScript using tools such as Screw.Unit and Smok
+ e. The tools and approach are library-agnostic; they work well with jQue
+ ry, Prototype, and others.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T144000
+DTSTART;TZID=US/Pacific:20090505T135000
+DTSTAMP:20090506T004557
+LOCATION:Pavilion 2 - 3
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9250
+UID:http://railsconf.com/--s2009-05-05-13:50--9250
+SUMMARY:Writing Modular Applications
+DESCRIPTION:Presented by Jim Weirich (EdgeCase LLC). Many words of progr
+ amming wisdom have been written to promote the idea of low coupling betw
+ een modules. "Prefer delegation over inheritance", "The Law of Demeter" 
+ are examples of these words of advice. To understand these issues, we wi
+ ll look at the concept of "connascence" how it applies to creating modul
+ ar Ruby programs.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T144000
+DTSTART;TZID=US/Pacific:20090505T135000
+DTSTAMP:20090506T005330
+LOCATION:Pavilion 9 - 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7966
+UID:http://railsconf.com/--s2009-05-05-13:50--7966
+SUMMARY:Building a Mini-Google: High-Performance Computing in Ruby
+DESCRIPTION:Presented by Ilya Grigorik (AideRSS Inc.). Let's build a min
+ i-Google and compute the PageRank score for a 1-million page web – that'
+ s a non-trivial challenge! High performance computing may not be Ruby's 
+ strength, but we will investigate the available gems, tools, and algorit
+ hms which make this a tractable problem (spoiler: it's possible).
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T144000
+DTSTART;TZID=US/Pacific:20090505T135000
+DTSTAMP:20090506T005524
+LOCATION:Pavilion 1
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7720
+UID:http://railsconf.com/--s2009-05-05-13:50--7720
+SUMMARY:Develop with pleasure, Deploy with Fun: GlassFish and NetBeans f
+ or a better Rails experience
+DESCRIPTION:Presented by Arun Gupta (Sun Microsystems). This session pro
+ vides all the details on how GlassFish, and NetBeans provide a fun and r
+ obust development, deployment, and management platform for Rails applica
+ tions – without pain. It talks about performance tuning tips, scalabilit
+ y guide, capistrano recipes, monitoring guidelines and much more - all w
+ ithout using Java code.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T154000
+DTSTART;TZID=US/Pacific:20090505T145000
+DTSTAMP:20090506T005530
+LOCATION:Ballroom A
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7035
+UID:http://railsconf.com/--s2009-05-05-14:50--7035
+SUMMARY:I Rock, I Suck, I am - Jumpstart Your Journey to Agile
+DESCRIPTION:Presented by Davis W. Frank (Pivotal Labs). What's next afte
+ r reading 'Extreme Programming Explained'?  Are you suddenly now an Agil
+ e Developer?  Likely not - you don't become Agile overnight.  It's more 
+ of a journey to change how you think and work.  Learn by example with ti
+ ps and tricks from someone who's made that journey and is happier and mo
+ re productive because of it.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T154000
+DTSTART;TZID=US/Pacific:20090505T145000
+DTSTAMP:20090506T005533
+LOCATION:Ballroom B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7846
+UID:http://railsconf.com/--s2009-05-05-14:50--7846
+SUMMARY:Below and Beneath TDD: Test Last Development and Other Real-Worl
+ d Test Patterns
+DESCRIPTION:Presented by Noel Rappin (Pathfinder Development). This talk
+  explores what makes Test Driven Development really work by showing what
+  happens where the process breaks down, focusing on rapid feedback as th
+ e key to asuccessful test-driven process. It also creates a vocabulary f
+ or talking about malformed test processes.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T154000
+DTSTART;TZID=US/Pacific:20090505T145000
+DTSTAMP:20090506T005338
+LOCATION:Pavilion 2 - 3
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7367
+UID:http://railsconf.com/--s2009-05-05-14:50--7367
+SUMMARY:Smacking Git Around - Advanced Git Tricks
+DESCRIPTION:Presented by Scott Chacon (GitHub). Much of the Ruby and Rai
+ ls community is now using Git, but there are a number of fun things that
+  are a bit more difficult to get the hang of that are incredibly helpful
+  to know when using Git.  This session will go over some advanced Git us
+ age for the casual or intermediate Git user.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T154000
+DTSTART;TZID=US/Pacific:20090505T145000
+DTSTAMP:20090506T005343
+LOCATION:Pavilion 9 - 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8711
+UID:http://railsconf.com/--s2009-05-05-14:50--8711
+SUMMARY:JRuby: State of the Art
+DESCRIPTION:Presented by Charles Nutter (Sun Microsystems, Inc.), Thomas
+  Enebo (Sun Microsystems, Inc.). Since last year, JRuby usage has grown 
+ tremendously. We've also released more than a dozen releases, fixed hund
+ reds of bugs, and committed thousands of revisions. In this session we'l
+ l update you on JRuby performance in real applications, show you what pe
+ ople are using it for like GUIs and games, and demonstrate how JRuby is 
+ improving the Ruby and Rails worlds.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T154000
+DTSTART;TZID=US/Pacific:20090505T145000
+DTSTAMP:20090505T224720
+LOCATION:Pavilion 1
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9192
+UID:http://railsconf.com/--s2009-05-05-14:50--9192
+SUMMARY:Gov 2.0: Transparency, Collaboration, and Participation in Pract
+ ice
+DESCRIPTION:Presented by Daniel Lathrop (Computational Journalism Consul
+ tant), Eric Mill (Sunlight Foundation), Wynn Netherland (Squeejee). This
+  panel will present views on how to improve civic life, protect democrac
+ y and hold politicians accountable using Web 2.0 technology. The panelis
+ ts will lay out the massive need for programmers to deploy their skills 
+ in reimagining government in a way that promotes transparency, collabora
+ tion and public participation.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T171500
+DTSTART;TZID=US/Pacific:20090505T162500
+DTSTAMP:20090506T005532
+LOCATION:Ballroom A
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7721
+UID:http://railsconf.com/--s2009-05-05-16:25--7721
+SUMMARY:Blood, Sweat and Rails
+DESCRIPTION:Presented by Obie Fernandez (Hashrocket). Obie reveals secre
+ ts of survival in the Rails consultancy and contracting business, based 
+ on his real-life experience as founder and CEO of Hashrocket.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T171500
+DTSTART;TZID=US/Pacific:20090505T162500
+DTSTAMP:20090506T005428
+LOCATION:Ballroom B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7722
+UID:http://railsconf.com/--s2009-05-05-16:25--7722
+SUMMARY:Quality Code with Cucumber
+DESCRIPTION:Presented by Aslak Hellesøy (Bekk Consulting AS). Cucumber i
+ s a novel tool for Behaviour Driven Development. While early BDD tools l
+ ike RSpec and Shoulda are geared towards programmers, classes and object
+ s, Cucumber nicely fills the communication gap between customers, progra
+ mmers and testers. This session will change how you approach requirement
+ s and testing of Rails applications.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T171500
+DTSTART;TZID=US/Pacific:20090505T162500
+DTSTAMP:20090506T004932
+LOCATION:Pavilion 2 - 3
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7729
+UID:http://railsconf.com/--s2009-05-05-16:25--7729
+SUMMARY:Guitar Hero®: Behind the Music
+DESCRIPTION:Presented by David Czarnecki (Agora Games), Ola Mork (Agora 
+ Games), Eric Torrey (AgoraGames). The Guitar Hero® community website (ht
+ tp://community.guitarhero.com) is one of the largest production RoR site
+ s on the Internet with 600,000+ registered users. We will cover the proc
+ ess, programming, and infrastructure for the Guitar Hero® community site
+ . You'll see how we've been able to integrate data from three largely di
+ fferent Guitar Hero® titles in a consumable fashion on the web.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T171500
+DTSTART;TZID=US/Pacific:20090505T162500
+DTSTAMP:20090506T004853
+LOCATION:Pavilion 9 - 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7592
+UID:http://railsconf.com/--s2009-05-05-16:25--7592
+SUMMARY:Scaling Rails
+DESCRIPTION:Presented by Ninh Bui (Phusion), Hongli Lai (Phusion). 5 yea
+ rs after the initial release of Ruby on Rails, multiple large and succes
+ sful websites are powered by this innovative and still relatively young 
+ framework. But word is still on the street that Ruby on Rails does not s
+ cale. Is this true?
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T181500
+DTSTART;TZID=US/Pacific:20090505T174500
+DTSTAMP:20090409T203817
+LOCATION:Ballroom A-B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9067
+UID:http://railsconf.com/--s2009-05-05-17:45--9067
+SUMMARY:Ruby Heroes Award Ceremony
+DESCRIPTION:Presented by Gregg Pollack (Rails Envy). We'll be handing ou
+ t several trophies to people we believe to be Ruby Heroes, and giving th
+ em the round of applause they deserve and might not get otherwise.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T191500
+DTSTART;TZID=US/Pacific:20090505T181500
+DTSTAMP:20090406T154859
+LOCATION:Ballroom A-B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9034
+UID:http://railsconf.com/--s2009-05-05-18:15--9034
+SUMMARY:Keynote
+DESCRIPTION:Presented by Timothy Ferriss (The 4-hour Workweek). Keynote 
+ by Tim Ferriss, author of the Four Hour Work-Week.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T220000
+DTSTART;TZID=US/Pacific:20090505T193000
+DTSTAMP:20090409T191401
+LOCATION:Ballroom A
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9084
+UID:http://railsconf.com/--s2009-05-05-19:30--9084
+SUMMARY:Music BOF
+DESCRIPTION:Bring an instrument (or your voice) and let's make music! Ma
+ ny Rails developers are also musicians. Whether you play jazz, rock, blu
+ es, pop, or whatever the case may be, come along and meet and play with 
+ other musical developers.  If you can't bring an instrument, stop by any
+ way. There might be extras.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T213000
+DTSTART;TZID=US/Pacific:20090505T193000
+DTSTAMP:20090409T220638
+LOCATION:Pavilion 2 - 3
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9023
+UID:http://railsconf.com/--s2009-05-05-19:30--9023
+SUMMARY:ActiveResearch
+DESCRIPTION:A very special evening of science, technology, Ruby and Rail
+ s: activeresearch.org.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T203000
+DTSTART;TZID=US/Pacific:20090505T193000
+DTSTAMP:20090422T182713
+LOCATION:Pavilion 9 - 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8988
+UID:http://railsconf.com/--s2009-05-05-19:30--8988
+SUMMARY:Running a Successful Ruby User Group: What it Takes, and How to 
+ Make it Last
+DESCRIPTION:Do you run a local user group? Let's get together and talk a
+ bout how we all generate interest,  cover expenses, and keep people comi
+ ng back week after week. Big and small cities alike, it's a challenge, a
+ nd more importantly, a lot of work that we're all likely doing after hou
+ rs. Let's get together to talk shop and strategize!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T203000
+DTSTART;TZID=US/Pacific:20090505T193000
+DTSTAMP:20090408T070757
+LOCATION:Pavilion 1
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8951
+UID:http://railsconf.com/--s2009-05-05-19:30--8951
+SUMMARY:Using Rails on Oracle
+DESCRIPTION:In this session practical experience of using Ruby on Rails 
+ on Oracle database will be discussed - Oracle enhanced adapter for Activ
+ eRecord, limitations of ActiveRecord on Oracle, usage of PL/SQL stored p
+ rocedures, different deployment platforms etc.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T203000
+DTSTART;TZID=US/Pacific:20090505T193000
+DTSTAMP:20090409T220307
+LOCATION:Conference Room 9
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8977
+UID:http://railsconf.com/--s2009-05-05-19:30--8977
+SUMMARY:Getting Started with Compass & Sass
+DESCRIPTION:Compass is the awesomest (OK only) Sass-based stylesheet fra
+ mework. Sass is the awesomest syntax for writing stylesheets. Bring your
+  laptop and your favorite project to this informal BoF session. In this 
+ lab will get you up and running with Compass and Sass. If you're already
+  a pro, come to help out and also to pick the creator of Compass's brain
+  about advanced techniques.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T203000
+DTSTART;TZID=US/Pacific:20090505T193000
+DTSTAMP:20090421T152732
+LOCATION:Conference Room 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9094
+UID:http://railsconf.com/--s2009-05-05-19:30--9094
+SUMMARY:Running a Software-as-a-Service (SaaS) Business on Rails
+DESCRIPTION:General discussion about both technical and non-technical as
+ pects of running a Software-as-a-Service business which exposes Rails ap
+ plications to the public.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T203000
+DTSTART;TZID=US/Pacific:20090505T193000
+DTSTAMP:20090409T205242
+LOCATION:Conference Room 11 - 12
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9070
+UID:http://railsconf.com/--s2009-05-05-19:30--9070
+SUMMARY:Future of App Performance Monitoring with New Relic RPM
+DESCRIPTION:What would you like to see in future versions of RPM? Tell u
+ s your ideas and let New Relic share some of theirs with you.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T213000
+DTSTART;TZID=US/Pacific:20090505T203000
+DTSTAMP:20090428T163933
+LOCATION:Pavilion 9 - 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9204
+UID:http://railsconf.com/--s2009-05-05-20:30--9204
+SUMMARY:Radiant Users
+DESCRIPTION:Radiant has become the most popular rails CMS recently, due 
+ to its simplicity and extendibility. Come discuss building sites with Ra
+ diant and extending its functionality.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T213000
+DTSTART;TZID=US/Pacific:20090505T203000
+DTSTAMP:20090422T183330
+LOCATION:Pavilion 1
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9020
+UID:http://railsconf.com/--s2009-05-05-20:30--9020
+SUMMARY:Open Government Hackathon
+DESCRIPTION:President Obama has called for a new age of open and transpa
+ rent government, and you can help usher it in. Led by Sunlight Labs, thi
+ s session will introduce you to open government projects by your fellow 
+ Rubyists, let you propose your own, then get out of your way and let you
+  start hacking. Sunlight Labs is part of the Sunlight Foundation, a non-
+ profit dedicated to transparent government.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T213000
+DTSTART;TZID=US/Pacific:20090505T203000
+DTSTAMP:20090430T232802
+LOCATION:Conference Room 9
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9166
+UID:http://railsconf.com/--s2009-05-05-20:30--9166
+SUMMARY:Agile Development in Rails
+DESCRIPTION:Open discussion on Agile development with Rails.  Share your
+  stories about: - Agile adoption and the evolution of your team - Challe
+ nges and benefits of Agile development with Rails  - Everyday best pract
+ ices - Software tools and resources that support Agile processes
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T213000
+DTSTART;TZID=US/Pacific:20090505T203000
+DTSTAMP:20090430T232821
+LOCATION:Conference Room 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9063
+UID:http://railsconf.com/--s2009-05-05-20:30--9063
+SUMMARY:Active Scaffold: BOF
+DESCRIPTION:Come discuss and learn about the Active Scaffold library wit
+ h Mike Gaffney (mr.gaffo) and Kenny Ortmann (yairgo), two core contribut
+ ors.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T213000
+DTSTART;TZID=US/Pacific:20090505T203000
+DTSTAMP:20090502T011441
+LOCATION:Conference Room 11 - 12
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9117
+UID:http://railsconf.com/--s2009-05-05-20:30--9117
+SUMMARY:Where Rails Fails and Java Jives: Lessons from the anti-Twitter
+DESCRIPTION:With 60 million users and 35 billion words, Scribd is where 
+ discussions happen in 140 million characters or less. Join one of the la
+ rgest Ruby/Rails sites as we talk about the limitations of Ruby, Rails a
+ nd interesting ways we're using Rack Middleware and Java to scale one of
+  the fastest growing web properties in the world.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090505T223000
+DTSTART;TZID=US/Pacific:20090505T213000
+DTSTAMP:20090503T204356
+LOCATION:Pavilion 1
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9246
+UID:http://railsconf.com/--s2009-05-05-21:30--9246
+SUMMARY:Pair Programming
+DESCRIPTION:So maybe you're testing all the time. But, are you pairing a
+ ll the time? The team from Hashrocket is, and we'd love to talk about it
+ . Come debate the pro's and con's of pair programming. Already sold on p
+ airing? Share your best practices with others.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T184500
+DTSTART;TZID=US/Pacific:20090506T090000
+DTSTAMP:20090130T185059
+LOCATION:Pavilion 4
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8007
+UID:http://railsconf.com/--s2009-05-06-09:00--8007
+SUMMARY:Caboose Conf
+DESCRIPTION:CabooseConf is the free, hacker-focused part of RailsConf. S
+ killed Rails coders from all over the world will meet in one room to net
+ work, hack and work on their rails projects.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T091500
+DTSTART;TZID=US/Pacific:20090506T090500
+DTSTAMP:20090428T171232
+LOCATION:Ballroom A-B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9066
+UID:http://railsconf.com/--s2009-05-06-09:05--9066
+SUMMARY:Agility in Deployment - Rails in the Cloud
+DESCRIPTION:Presented by Jon Crosby (Engine Yard). The ability to releas
+ e early and often becomes more important as your product scales. With En
+ gine Yard Flex, we'll demonstrate creating 'One Button' deployments that
+  scale. We'll demonstrate building a high-volume Rails cluster and show 
+ how easy it is to create a 'Clone of Production' to test at scale.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T101500
+DTSTART;TZID=US/Pacific:20090506T091500
+DTSTAMP:20090406T154912
+LOCATION:Ballroom A-B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9032
+UID:http://railsconf.com/--s2009-05-06-09:15--9032
+SUMMARY:Keynote
+DESCRIPTION:Presented by Chris Wanstrath (GitHub). Keynote by Chris Wans
+ trath, GitHub.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T113500
+DTSTART;TZID=US/Pacific:20090506T104500
+DTSTAMP:20090319T181535
+LOCATION:Ballroom A
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8517
+UID:http://railsconf.com/--s2009-05-06-10:45--8517
+SUMMARY:Twitter on Rails
+DESCRIPTION:Presented by Michael Bleigh (Intridea). Twitter is a bustlin
+ g universe full of opportunities to create crazy, useful and crazy usefu
+ l applications. Get a kick start to creating Twitter applications in Rai
+ ls using TwitterAuth, the Twitter authentication stack for Rails.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T113500
+DTSTART;TZID=US/Pacific:20090506T104500
+DTSTAMP:20090305T161034
+LOCATION:Ballroom B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8276
+UID:http://railsconf.com/--s2009-05-06-10:45--8276
+SUMMARY:Rails Metal, Rack, and Sinatra
+DESCRIPTION:Presented by Adam Wiggins (Heroku). Rails 2.3 introduces a h
+ ot new feature: Rails Metal.  Metal allows you to build Rack endpoints f
+ or selected URLs in your app and get a 2x - 3x performance boost. Even b
+ etter: you can use Sinatra, the microframework that everyone's talking a
+ bout, from Rails Metal.  Capture the speed and elegance of Sinatra from 
+ within your existing Rails app!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T113500
+DTSTART;TZID=US/Pacific:20090506T104500
+DTSTAMP:20090504T163128
+LOCATION:Pavilion 2 - 3
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9251
+UID:http://railsconf.com/--s2009-05-06-10:45--9251
+SUMMARY:Getting to Know Ruby 1.9
+DESCRIPTION:Presented by David A. Black (Ruby Central, Inc.). An overvie
+ w of important new features and changes in Ruby 1.9, including some comp
+ atibility issues to watch out for when you're migrating your 1.8 code.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T113500
+DTSTART;TZID=US/Pacific:20090506T104500
+DTSTAMP:20090305T161050
+LOCATION:Pavilion 9 - 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7935
+UID:http://railsconf.com/--s2009-05-06-10:45--7935
+SUMMARY:Using metric_fu to Make Your Rails Code Better
+DESCRIPTION:Presented by Jake Scruggs (Obtiva). How can you make sure th
+ at your beautiful Rails code doesn't degrade over time as more people jo
+ in a project and deadlines loom?  Well, there are tools to measure test 
+ coverage, code complexity, churn, bad practices, duplication, and code s
+ mell.  And all of these various open source projects have been mashed to
+ gether in metric_fu - a Ruby gem that makes measuring the quality of you
+ r code easy.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T113500
+DTSTART;TZID=US/Pacific:20090506T104500
+DTSTAMP:20090415T172447
+LOCATION:Pavilion 1
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9108
+UID:http://railsconf.com/--s2009-05-06-10:45--9108
+SUMMARY:Confessions of a PackRat
+DESCRIPTION:Presented by Scott Raymond (Alamofire, Inc.). The Facebook g
+ ame PackRat uses Ruby to handle over 12 million page views a day. This s
+ ession will hightlite some tricks and techniques used to build and grow 
+ a profitable app. Topics include: the promise and perils of relying on A
+ WS, how scaling the database tier nearly killed us, advanced caching str
+ ategies, and when The Big Rewrite might actually be a good idea.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T123500
+DTSTART;TZID=US/Pacific:20090506T114500
+DTSTAMP:20090305T161059
+LOCATION:Ballroom A
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8770
+UID:http://railsconf.com/--s2009-05-06-11:45--8770
+SUMMARY:Giving Rails the Big 'F': Surviving Facebook Integration Unscarr
+ ed
+DESCRIPTION:Presented by Greg Borenstein (Grabb.it (http://grabb.it)). F
+ acebook offers a seductive platform for accessing the most intimate soci
+ al data of 150 million users. Up close, though, this beauty is horribly 
+ marred by some disgusting boils: proprietary markup, a disregard for sta
+ ndards,  shifting APIs, and an insane dev environment. I'll present stra
+ tegies for Facebook integration without causing your app, your process, 
+ or yourself any unsightly scarring.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T123500
+DTSTART;TZID=US/Pacific:20090506T114500
+DTSTAMP:20090423T231214
+LOCATION:Ballroom B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7591
+UID:http://railsconf.com/--s2009-05-06-11:45--7591
+SUMMARY:Are You Taking Things Too Far?
+DESCRIPTION:Presented by Michael Koziarski (Koziarski Software Limited).
+  Sometimes as developers it can be a little too easy to lose sight of th
+ e big picture sometimes, we can get carried away with following the conv
+ entional wisdom without thinking about why that wisdom became convention
+ al.   Several great ideas and techniques can become huge time-sinks or d
+ istractions if we're not careful.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T123500
+DTSTART;TZID=US/Pacific:20090506T114500
+DTSTAMP:20090305T161115
+LOCATION:Pavilion 2 - 3
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7539
+UID:http://railsconf.com/--s2009-05-06-11:45--7539
+SUMMARY:Rails3: Step Off of the Golden Path
+DESCRIPTION:Presented by Matt Aimonetti (m|a agile consulting). Rails3 i
+ s the result of the Merb and Rails merger. While the usual ActiveRecord/
+ ERB/Prototype/Test::Unit full stack is still the default, Rails3 now let
+  you step off of the golden path.  Learn more about alternative stack co
+ mponents, when and why to use them by looking at concrete examples.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T123500
+DTSTART;TZID=US/Pacific:20090506T114500
+DTSTAMP:20090305T161131
+LOCATION:Pavilion 9 - 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7897
+UID:http://railsconf.com/--s2009-05-06-11:45--7897
+SUMMARY:Rube Goldberg Contraptions, Building Scalable Decoupled Web Apps
+  and Infrastructure with Ruby
+DESCRIPTION:Presented by Ezra Zygmuntowicz (Engine Yard Inc.). In this t
+ alk we will explore the state of the art deployment options for large sc
+ ale ruby web apps. Ruby web apps become ecosystems of many moving parts 
+ over time as they scale. We will outline a scalable architecture for con
+ figuring, building, maintaining and scaling the system as a cohesive who
+ le. We will explore technologies like rabbitmq, chef, nanite and EY's ne
+ w cloud hosting platform.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T123500
+DTSTART;TZID=US/Pacific:20090506T114500
+DTSTAMP:20090417T160919
+LOCATION:Pavilion 1
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9118
+UID:http://railsconf.com/--s2009-05-06-11:45--9118
+SUMMARY:JRuby on Google App Engine
+DESCRIPTION:Presented by John Woodell (Google, Inc.), Ryan Brown (Google
+ , Inc.). JRuby developers can now use the Rails or Merb frameworks to de
+ ploy applications to  Google App Engine. We will provide an overview of 
+ App Engine, show few demos,  provide some insight into using DataStore.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T144000
+DTSTART;TZID=US/Pacific:20090506T135000
+DTSTAMP:20090305T161139
+LOCATION:Ballroom A
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7494
+UID:http://railsconf.com/--s2009-05-06-13:50--7494
+SUMMARY:Five Musical Patterns for Programmers
+DESCRIPTION:Presented by Jonathan Dahl (Tumblon). Music and software a l
+ ot in common. We will look at five patterns from the world of music that
+  are relevant to programming, and talk about how music history and theor
+ y can help us become better software developers.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T144000
+DTSTART;TZID=US/Pacific:20090506T135000
+DTSTAMP:20090316T180516
+LOCATION:Ballroom B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8680
+UID:http://railsconf.com/--s2009-05-06-13:50--8680
+SUMMARY:What Makes Ruby Go: An Implementation Primer
+DESCRIPTION:Presented by Charles Nutter (Sun Microsystems, Inc.), Evan  
+ Phoenix (Engine Yard). A walkthrough of how common and popular Ruby feat
+ ures are actually implemented, with a focus on how they work, why they b
+ ehave the way they do, and why they do or do not perfom well. If you'd l
+ ike to better understand What Makes Ruby Go, this is the talk for you.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T144000
+DTSTART;TZID=US/Pacific:20090506T135000
+DTSTAMP:20090305T161155
+LOCATION:Pavilion 2 - 3
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7804
+UID:http://railsconf.com/--s2009-05-06-13:50--7804
+SUMMARY:Rails and Legacy Databases
+DESCRIPTION:Presented by Brian Hogan (NAPCS). Want to use Rails but are 
+ stuck with a nasty existing database? No problem. This session will show
+  you how we managed to defeat an ugly beast of a system. You'll come awa
+ y armed with some strategies you can employ to slay even the ugliest sch
+ emas.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T144000
+DTSTART;TZID=US/Pacific:20090506T135000
+DTSTAMP:20090406T181050
+LOCATION:Pavilion 9 - 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8706
+UID:http://railsconf.com/--s2009-05-06-13:50--8706
+SUMMARY:Rails in the Large:How We're Developing the Largest Rails Projec
+ t in the World
+DESCRIPTION:Presented by Neal Ford (ThoughtWorks), Paul Gross (ThoughtWo
+ rks). While others have been debating whether Rails can scale to enterpr
+ ise levels, we've been demonstrating it. This session shows how to scale
+  Rails development to the heights.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T144000
+DTSTART;TZID=US/Pacific:20090506T135000
+DTSTAMP:20090414T175245
+LOCATION:Pavilion 1
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8947
+UID:http://railsconf.com/--s2009-05-06-13:50--8947
+SUMMARY:Rails Entrepreneurs Panel: Starting or Running Your Own Company
+DESCRIPTION:Presented by Obie Fernandez (Hashrocket), David Heinemeier H
+ ansson (37signals), Tobias Lütke (Shopify), Lewis  Cirne (New Relic, Inc
+ .). Meet three CEO's who have each started a successful Rails-focused co
+ mpany. How did they start, what were the keys to success, what would the
+ y do differently? Whether you have started a company or are thinking abo
+ ut it, this will be interesting. Panel discussion and Q&A.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T154000
+DTSTART;TZID=US/Pacific:20090506T145000
+DTSTAMP:20090305T161214
+LOCATION:Ballroom A
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8762
+UID:http://railsconf.com/--s2009-05-06-14:50--8762
+SUMMARY:Call into your Ruby code! Writing voice-enabled apps in Ruby wit
+ h Adhearsion
+DESCRIPTION:Presented by Jay Phillips (Codemecca LLC). Every participant
+  in this tutorial will get to use their own cell phone to call into code
+  running on their laptop! Jay Phillips will be interactively showing how
+  to build voice-enabled web applications using the open-source Adhearsio
+ n telephony development framework. All you need is Ruby and RubyGems pre
+ -installed.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T154000
+DTSTART;TZID=US/Pacific:20090506T145000
+DTSTAMP:20090305T161221
+LOCATION:Ballroom B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8738
+UID:http://railsconf.com/--s2009-05-06-14:50--8738
+SUMMARY:Interfaces are Dumb (and that's a Very Good Thing)
+DESCRIPTION:Presented by Erik Kastner (Wine Library / Meta | ateM). Webh
+ ooks and Protocols (like Rack) are dumb. Like a socket, they work with a
+ nything that fits. We'll look at a whole class of problems that can be s
+ olved creatively with similar solutions. We will also look at some popul
+ ar and successful real-world implementations.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T154000
+DTSTART;TZID=US/Pacific:20090506T145000
+DTSTAMP:20090305T161230
+LOCATION:Pavilion 2 - 3
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7847
+UID:http://railsconf.com/--s2009-05-06-14:50--7847
+SUMMARY:Working Effectively with Legacy Rails Code
+DESCRIPTION:Presented by Pat Maddox (The Science Department), BJ Clark (
+ AboutUs.org). Rails has been out for a few years now.  We're past the bl
+ ogs, past the first couple rounds of new apps, and now have legacy syste
+ ms to maintain.  What strategies can we use for improving these systems?
+  What specific challenges are there for Rails apps, and how does Ruby al
+ low us to meet them in unique ways?  We'll look at all of this and more,
+  in "Working effectively with legacy Rails code"
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T154000
+DTSTART;TZID=US/Pacific:20090506T145000
+DTSTAMP:20090505T212628
+LOCATION:Pavilion 9 - 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8615
+UID:http://railsconf.com/--s2009-05-06-14:50--8615
+SUMMARY:Advanced Performance Optimization of Rails Applications
+DESCRIPTION:Presented by Alexander Dymo (Pluron, Inc.). You know Rails 2
+ .x is fast, but your application is still slow. This session goes beyond
+  the basics and gets into advanced areas such as optimizing complex has_
+ many/belongs_to relationships, template rendering, browser performance, 
+ database use. The session covers performance-oriented development proces
+ ses and tools. Special topic: optimizing for deployment on dedicated, VP
+ S and shared hosting.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T154000
+DTSTART;TZID=US/Pacific:20090506T145000
+DTSTAMP:20090414T175349
+LOCATION:Pavilion 1
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9058
+UID:http://railsconf.com/--s2009-05-06-14:50--9058
+SUMMARY:Heroku: Guided Tour and Q & A
+DESCRIPTION:Presented by Morten  Bagai (Heroku), James Lindenbaum (Herok
+ u), Ryan Tomayko (Heroku), Adam Wiggins (Heroku). Back by popular reques
+ t, several Heroku team members will be on hand to walk you through the l
+ atest and greatest features of the Heroku platform and answer your quest
+ ions.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T171500
+DTSTART;TZID=US/Pacific:20090506T162500
+DTSTAMP:20090305T161246
+LOCATION:Ballroom A
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8519
+UID:http://railsconf.com/--s2009-05-06-16:25--8519
+SUMMARY:%w(map reduce).first - A Tale About Rabbits, Latency, and Slim C
+ rontabs
+DESCRIPTION:Presented by Paolo Negri (autoscout24.de). Discover how is p
+ ossible to use parallel execution to batch process large amount of data,
+  learn how to use queues to distribute workload and coordinate processes
+ , increase the throughput on system with high latency. Have fun with Eve
+ ntMachine, AMQP, RabbitMQ and get rid of that every 5mins cronjob
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T171500
+DTSTART;TZID=US/Pacific:20090506T162500
+DTSTAMP:20090423T163620
+LOCATION:Ballroom B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7883
+UID:http://railsconf.com/--s2009-05-06-16:25--7883
+SUMMARY:IronRuby on Rails
+DESCRIPTION:Presented by Jimmy Schementi (Microsoft). Come see how well 
+ IronRuby runs Rails.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T171500
+DTSTART;TZID=US/Pacific:20090506T162500
+DTSTAMP:20090305T161300
+LOCATION:Pavilion 2 - 3
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7967
+UID:http://railsconf.com/--s2009-05-06-16:25--7967
+SUMMARY:Art of the Ruby Proxy for Scale, Performance, and Monitoring
+DESCRIPTION:Presented by Ilya Grigorik (AideRSS Inc.). A high-performanc
+ e proxy server is less than a hundred lines of Ruby code and it is an in
+ dispensable tool for anyone who knows how to use it. In this talk we'll 
+ dissect three real-world examples: live A/B performance testing, extendi
+ ng functionality of existing applications, and real-time traffic analysi
+ s and performance monitoring. We'll implement each example using Ruby Ev
+ entMachine framework.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T171500
+DTSTART;TZID=US/Pacific:20090506T162500
+DTSTAMP:20090305T161306
+LOCATION:Pavilion 9 - 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7765
+UID:http://railsconf.com/--s2009-05-06-16:25--7765
+SUMMARY:Starting Up Fast: Lessons from the Rails Rumble
+DESCRIPTION:Presented by Nick Plante (Nth Interactive), Joe Fiorini (Wit
+ hin3), Ben Scofield (Viget Labs), Chris Saylor (Todobebé), James Golick 
+ (GiraffeSoft Inc.). The Rails Rumble is a 48-hour innovation competition
+  in which teams of up to four developers embrace their environmental con
+ straints to create a number of compelling microapps with Ruby and Rails.
+  In this panel we'll talk to a number of Rumble participants and discove
+ r the tips, tricks, and techniques they used to successfully launch inno
+ vative web properties in an extremely short time frame.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T184500
+DTSTART;TZID=US/Pacific:20090506T174500
+DTSTAMP:20090420T203342
+LOCATION:Ballroom A-B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8482
+UID:http://railsconf.com/--s2009-05-06-17:45--8482
+SUMMARY:What Killed Smalltalk Could Kill Ruby Too
+DESCRIPTION:Presented by Robert Martin (Object Mentor Inc.). Keynote by 
+ Bob Martin, Object Mentor, Inc.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T210000
+DTSTART;TZID=US/Pacific:20090506T200000
+DTSTAMP:20090413T060433
+LOCATION:Pavilion 2 - 3
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9061
+UID:http://railsconf.com/--s2009-05-06-20:00--9061
+SUMMARY:Next Generation Tagging
+DESCRIPTION:Let's talk about machine tags and semantic tags. How to use 
+ them in Rails and what interesting things people are doing with them.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T210000
+DTSTART;TZID=US/Pacific:20090506T200000
+DTSTAMP:20090409T194312
+LOCATION:Pavilion 9 - 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9062
+UID:http://railsconf.com/--s2009-05-06-20:00--9062
+SUMMARY:Legacy Systems from Java 1.2 to Rails Edge
+DESCRIPTION:When a business is run by an application that houses all ess
+ ential business logic (scm, ticketing, billing, contracting, and HR), it
+  can't be thrown away. What started as a simple add on Rails app turned 
+ into a continuing conversion of just such a system. Come learn what stra
+ tegies, development processes, and lessons learned have come from this r
+ ewrite of a 200KLOC Java app.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T210000
+DTSTART;TZID=US/Pacific:20090506T200000
+DTSTAMP:20090409T192731
+LOCATION:Pavilion 1
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9047
+UID:http://railsconf.com/--s2009-05-06-20:00--9047
+SUMMARY:Rails Activism Discussion
+DESCRIPTION:Join Rails Activists Matt Aimonetti, Ryan Bates, Gregg Polla
+ ck in a  discussion of Rails Activism.  If you have any ideas on how to 
+ encourage Rails adoption and improve our community we'd love to hear fro
+ m you. Bring your thoughts, questions, and complaints and we'll figure o
+ ut how to improve the Rails ecosystem together.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T210000
+DTSTART;TZID=US/Pacific:20090506T200000
+DTSTAMP:20090420T191319
+LOCATION:Conference Room 9
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9104
+UID:http://railsconf.com/--s2009-05-06-20:00--9104
+SUMMARY:Developing RESTful Flex and AIR Applications with Rails and Rest
+ fulX
+DESCRIPTION:Peter Armstrong will be demoing the MIT-licensed RestfulX fr
+ amework (http://restfulx.github.com/), which brings the design principle
+ s and productivity of Rails to Adobe Flex and AIR development and makes 
+ integration with RESTful Web Services as simple as possible.  If you wan
+ t to use Ruby on Rails, Merb, Sinatra, CouchDB or Google App Engine with
+  Adobe Flex or AIR, this BoF is for you.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T210000
+DTSTART;TZID=US/Pacific:20090506T200000
+DTSTAMP:20090420T185910
+LOCATION:Conference Room 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9105
+UID:http://railsconf.com/--s2009-05-06-20:00--9105
+SUMMARY:Amazon S3 and Rails - Take the First Step into the Cloud
+DESCRIPTION:Learn how to make your apps faster, more scalable, bullet-pr
+ oof and just plain cooler with Scott Patten, author of The S3 Cookbook. 
+  Scott Patten will get you using S3, and give a quick tour of S3.  We'll
+  talk about S3 and web apps: serving data, backups, authenticated downlo
+ ads and whatever other crazy things you are using it for. We'll end with
+  a discussion of S3 tips, tricks and pitfalls.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T210000
+DTSTART;TZID=US/Pacific:20090506T200000
+DTSTAMP:20090423T172244
+LOCATION:Conference Room 11 - 12
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9107
+UID:http://railsconf.com/--s2009-05-06-20:00--9107
+SUMMARY:Open Source Commerce With Spree
+DESCRIPTION:Session will be led by Sean Schofield the creator and mainta
+ iner of the Spree project.  Come join us for a free form discussion abou
+ t Spree and online commerce with Ruby on Rails in general. This is your 
+ chance to meet some of the people behind this project, ask questions and
+  to suggest new features.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T213000
+DTSTART;TZID=US/Pacific:20090506T200000
+DTSTAMP:20090324T232012
+LOCATION:Ballroom A-B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9011
+UID:http://railsconf.com/--s2009-05-06-20:00--9011
+SUMMARY:Lightning Talks
+DESCRIPTION:Short adhoc presentations from the audience.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T220000
+DTSTART;TZID=US/Pacific:20090506T210000
+DTSTAMP:20090423T174619
+LOCATION:Pavilion 2 - 3
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9165
+UID:http://railsconf.com/--s2009-05-06-21:00--9165
+SUMMARY:Twitter Developer Meetup
+DESCRIPTION:Are you working with the Twitter API or are interested in ge
+ tting started? Meet up with other Twitter developers to talk about the t
+ hings you're working on and maybe learn a few new tricks. Moderated by M
+ ichael Bleigh who is giving the "Twitter on Rails" talk.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T220000
+DTSTART;TZID=US/Pacific:20090506T210000
+DTSTAMP:20090427T203105
+LOCATION:Pavilion 9 - 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9201
+UID:http://railsconf.com/--s2009-05-06-21:00--9201
+SUMMARY:Testing in Rails: What's Now, What's New, and What's Missing
+DESCRIPTION:The last year has seen a proliferation of tools and framewor
+ ks for testing in Rails, followed by a wave of work allowing developers 
+ to use one framework's syntax in another tool. This session is for anybo
+ dy who wants to navigate the confusion, advocate for their favorite test
+ ing tools, or try to determine what new tools are needed.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T220000
+DTSTART;TZID=US/Pacific:20090506T210000
+DTSTAMP:20090423T015434
+LOCATION:Pavilion 1
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9163
+UID:http://railsconf.com/--s2009-05-06-21:00--9163
+SUMMARY:IronRuby - On the Server and in the Browser
+DESCRIPTION:Cool usages of IronRuby, from the web server to the client, 
+ and in the browser.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T220000
+DTSTART;TZID=US/Pacific:20090506T210000
+DTSTAMP:20090504T200656
+LOCATION:Conference Room 9
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9217
+UID:http://railsconf.com/--s2009-05-06-21:00--9217
+SUMMARY:Influence from Star Trek and other SciFi
+DESCRIPTION:In anticipation of the new Star Trek movie that opens Thursd
+ ay, May 7, this session is an open discussion of Science Fiction's influ
+ ence on your life and career. Come and share your story.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090506T220000
+DTSTART;TZID=US/Pacific:20090506T210000
+DTSTAMP:20090501T161058
+LOCATION:Conference Room 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9242
+UID:http://railsconf.com/--s2009-05-06-21:00--9242
+SUMMARY:Rails 3: A Technical Deep Dive
+DESCRIPTION:Come get a technical overview of the Rails 3 work in progres
+ s with Yehuda Katz and Carl Lerche, who have been working full-time on t
+ he project for several months. Learn about the new architecture of Actio
+ nController, ActionView, and how you're expected to plug in to it.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090507T163000
+DTSTART;TZID=US/Pacific:20090507T090000
+DTSTAMP:20090130T182221
+LOCATION:Pavilion 4
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7816
+UID:http://railsconf.com/--s2009-05-07-09:00--7816
+SUMMARY:Caboose Conf
+DESCRIPTION:Coming soon.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090507T101500
+DTSTART;TZID=US/Pacific:20090507T092500
+DTSTAMP:20090403T174221
+LOCATION:Ballroom A
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8713
+UID:http://railsconf.com/--s2009-05-07-09:25--8713
+SUMMARY:Build an App, Start a Movement
+DESCRIPTION:Presented by Wynn Netherland (Squeejee), Jim Mulholland (Squ
+ eejee), Bradley Joyce (Squeejee). Has the corporate gig or client work s
+ ucked all the fun out of coding? Looking to build your freelancing portf
+ olio? Find a cause you care about build something! Micro apps can have a
+  big impact and build your career in the process. We'll share tips we le
+ arned in building TweetCongress.org, an effort to promote government tra
+ nsparency.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090507T101500
+DTSTART;TZID=US/Pacific:20090507T092500
+DTSTAMP:20090403T174318
+LOCATION:Ballroom B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8587
+UID:http://railsconf.com/--s2009-05-07-09:25--8587
+SUMMARY:Advanced Views with Erector
+DESCRIPTION:Presented by Jeff Dean (Pivotal Labs). Erector is a pure rub
+ y Builder-like view framework that you can use instead of ERB, inspired 
+ by Markaby.  In Erector all views are objects, not template files,  whic
+ h allows the full power of object-oriented programming (inheritance, mod
+ ular decomposition, encapsulation) in views.  Among other benefits, Erec
+ tor allows for inherited layouts and auto-closing tags.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090507T101500
+DTSTART;TZID=US/Pacific:20090507T092500
+DTSTAMP:20090403T174329
+LOCATION:Pavilion 2 - 3
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8554
+UID:http://railsconf.com/--s2009-05-07-09:25--8554
+SUMMARY:Webrat: Rails Acceptance Testing Evolved
+DESCRIPTION:Presented by Bryan Helmkamp (weplay). Webrat, a Ruby DSL for
+  interacting with Web applications, helps you write expressive, maintain
+ able acceptance tests while sidestepping the issues traditionally associ
+ ated with in-browser approaches like Selenium and Watir. We'll look at h
+ ow you can use Webrat to develop a robust acceptance test suite to ensur
+ e your app stays working as you refactor mercilessly.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090507T101500
+DTSTART;TZID=US/Pacific:20090507T092500
+DTSTAMP:20090403T174432
+LOCATION:Pavilion 9 - 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8739
+UID:http://railsconf.com/--s2009-05-07-09:25--8739
+SUMMARY:HTTP's Best-Kept Secret: Caching
+DESCRIPTION:Presented by Ryan Tomayko (Heroku). HTTP's basic caching mec
+ hanisms have been around for almost a decade and still their advantages 
+ and limitations are still not well understood. In this talk, we provide 
+ a clear and simple explanation of how HTTP caching works, put forth a sy
+ stem for classifying response cacheability, and argue that HTTP caching 
+ should be a fundamental aspect of resource design.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090507T113500
+DTSTART;TZID=US/Pacific:20090507T104500
+DTSTAMP:20090305T161328
+LOCATION:Ballroom A
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7717
+UID:http://railsconf.com/--s2009-05-07-10:45--7717
+SUMMARY:And the Greatest of These Is ... Rack Support
+DESCRIPTION:Presented by Ben Scofield (Viget Labs). The benefits of Rack
+  support in Rails have become increasingly obvious; Rails Metal and inte
+ grating multiple Rack applications have made possible architectures that
+  were impractical before, and some long-held opinions are ripe for chang
+ e. In this session, we'll see how to set up this integration and explore
+  real examples of how it can be used—including the rehabilitation of pag
+ e caching.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090507T113500
+DTSTART;TZID=US/Pacific:20090507T104500
+DTSTAMP:20090305T161336
+LOCATION:Ballroom B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7485
+UID:http://railsconf.com/--s2009-05-07-10:45--7485
+SUMMARY:When to Tell Your Kids About Client Caching
+DESCRIPTION:Presented by Matthew Deiters (Inc.). Rails has excellent cac
+ hing strategies for the server side but did you know typically 80% of a 
+ responses time is on network communication? This will be an exploration 
+ of all the dirty details of caching your app's personal bits in the clie
+ nt browser. We'll look at what Rails provides and what you can additiona
+ lly do to reduce response times and load on your application with little
+  effort.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090507T113500
+DTSTART;TZID=US/Pacific:20090507T104500
+DTSTAMP:20090305T161343
+LOCATION:Pavilion 2 - 3
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7432
+UID:http://railsconf.com/--s2009-05-07-10:45--7432
+SUMMARY:Building a Video Portal in Rails - Or How the Teenage Mutant Nin
+ ja Turtles Started Streaming
+DESCRIPTION:Presented by Ed Laczynski (Zype), Nathaniel Bibler (Rocket J
+ ump Industries). A team of Rails developers, designers, and an enterpris
+ ing media and licensing company embarked on a challenge:  How to put eve
+ ry video in the 4Kids Entertainment content library online, streaming fr
+ ee to millions of kids (and children-at-heart).  This session will revie
+ w the challenges and approach of the development of the www.4kidstv.com 
+ website, that streams over 1 million videos per month.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090507T113500
+DTSTART;TZID=US/Pacific:20090507T104500
+DTSTAMP:20090305T161351
+LOCATION:Pavilion 9 - 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7391
+UID:http://railsconf.com/--s2009-05-07-10:45--7391
+SUMMARY:Integrating Flex and Rails with RubyAMF
+DESCRIPTION:Presented by Tony Hillerson (EffectiveUI). RubyAMF is a Rail
+ s plug-in that allows easy, fast integration between Flex apps and Rails
+  using Adobe’s open format for transferring typed data to/from Flash app
+ s. We’ll walk through building a Flex application powered by a Rails bac
+ k-end service. You’ll see how to work with translation to native objects
+  in both directions, working with hierarchical data and more advanced co
+ nfiguration options.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090507T123500
+DTSTART;TZID=US/Pacific:20090507T114500
+DTSTAMP:20090403T175700
+LOCATION:Ballroom A
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7489
+UID:http://railsconf.com/--s2009-05-07-11:45--7489
+SUMMARY:Integrating SMS Messaging with your Rails Application
+DESCRIPTION:Presented by Blythe Dunham (Spongecell). With the influx of 
+ social networking and viral marketing web sites, SMS messaging has becom
+ e an important part of many web applications. From choosing a gateway  p
+ rovider to parsing messages to sending bulk SMS messages, this session d
+ etails how to send and receive text messages from your Rails application
+ .
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090507T123500
+DTSTART;TZID=US/Pacific:20090507T114500
+DTSTAMP:20090424T221047
+LOCATION:Ballroom B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/6967
+UID:http://railsconf.com/--s2009-05-07-11:45--6967
+SUMMARY:It's Not Always Sunny In the Clouds: Lessons Learned
+DESCRIPTION:Presented by Mike Subelsky (OtherInbox). For all its hype, c
+ loud computing really has introduced a potent new scaling mechanism for 
+ Rails apps, enabling your architecture to be as nimble and intelligent a
+ s your code itself.  Yet there are hidden challenges and dangers for the
+  would be cloud-jumper.  In this case study, instead of hype, you'll hea
+ r the story of OtherInbox, a Rails app that scaled rapidly and cheaply (
+ but not painlessly).
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090507T123500
+DTSTART;TZID=US/Pacific:20090507T114500
+DTSTAMP:20090305T161447
+LOCATION:Pavilion 2 - 3
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/6752
+UID:http://railsconf.com/--s2009-05-07-11:45--6752
+SUMMARY:Automated Code Quality Checking In Ruby And Rails
+DESCRIPTION:Presented by Marty Andrews (Cogent Consulting Pty Ltd). Auto
+ mated code quality tools are just starting to become popular in the Ruby
+  and Rails world, even though they've been around a long time in the Jav
+ a and .NET communities.  Learn what the tools are, and how to use them t
+ o improve the consistency, testability and overall quality of your Ruby 
+ and Rails applications.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090507T123500
+DTSTART;TZID=US/Pacific:20090507T114500
+DTSTAMP:20090305T161454
+LOCATION:Pavilion 9 - 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/6700
+UID:http://railsconf.com/--s2009-05-07-11:45--6700
+SUMMARY:Rails: A Year of Innovation
+DESCRIPTION:Presented by Gregg Pollack (Rails Envy), Jason Seifer (Rails
+  Envy). In this talk the Rails Envy guys will attempt to sum up a year o
+ f Rails innovation in 45 minutes, covering 20 of the most useful, ingeni
+ ous, and innovative new developments.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090507T144000
+DTSTART;TZID=US/Pacific:20090507T135000
+DTSTAMP:20090403T175715
+LOCATION:Ballroom A
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7598
+UID:http://railsconf.com/--s2009-05-07-13:50--7598
+SUMMARY:R-House - Rails for Home Automation
+DESCRIPTION:Presented by Fernand Galiana (LiquidRail LLC). Rails is in t
+ he house? Learn how to leverage the power of ruby and rails to create at
+ tractive home automation and energy saving solutions for your entire hou
+ se.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090507T144000
+DTSTART;TZID=US/Pacific:20090507T135000
+DTSTAMP:20090305T161507
+LOCATION:Ballroom B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7535
+UID:http://railsconf.com/--s2009-05-07-13:50--7535
+SUMMARY:Modeling Workflow in Ruby and Rails
+DESCRIPTION:Presented by David Bock (CodeSherpas). Workflow is a broad c
+ oncept, and there are many different approaches to it.  Our options in R
+ uby, especially declarative programming, make workflow applications fun 
+ to write, as well as very customizable without building huge "applicatio
+ n engines".  Come see how.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090507T144000
+DTSTART;TZID=US/Pacific:20090507T135000
+DTSTAMP:20090305T161512
+LOCATION:Pavilion 2 - 3
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7785
+UID:http://railsconf.com/--s2009-05-07-13:50--7785
+SUMMARY:The Russian Doll Pattern: Mountable apps in Rails 3
+DESCRIPTION:Presented by Yehuda Katz (Engine Yard Inc.), Carl Lerche (En
+ gine Yard). One of the hottest new features in Rails 3 is the ability to
+  embed a Rails application in another Rails application. This allows the
+  development of components that range from user authentication to a full
+ y featured forum. In this talk, Yehuda and Carl will give an in-depth tu
+ torial by building a CMS, creating a gem out of it, and integrating it i
+ nto another app.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090507T144000
+DTSTART;TZID=US/Pacific:20090507T135000
+DTSTAMP:20090305T161519
+LOCATION:Pavilion 9 - 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7877
+UID:http://railsconf.com/--s2009-05-07-13:50--7877
+SUMMARY:Orchestrating the Cloud
+DESCRIPTION:Presented by Matt Wood (Wellcome Trust Sanger Institute). Cl
+ oud computing can help lift the burden of computationally heavy tasks su
+ ch as encoding, indexing or scientific analysis. This talk aims to intro
+ duce architectures for processing on elastic infrastructures, and how Ru
+ by and Rails make it super simple to work at the petabyte scale, and bey
+ ond. We'll illustrate with a real world example, building a full human g
+ enome in the cloud, live!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090507T160000
+DTSTART;TZID=US/Pacific:20090507T151000
+DTSTAMP:20090406T154937
+LOCATION:Ballroom A-B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/9019
+UID:http://railsconf.com/--s2009-05-07-15:10--9019
+SUMMARY:Rails Core Panel
+DESCRIPTION:Presented by David Heinemeier Hansson (37signals), Jeremy Ke
+ mper (37signals), Michael Koziarski (Koziarski Software Limited), Rick O
+ lson (ENTP), Yehuda Katz (Engine Yard Inc.), Joshua Peek (Consultant). Q
+ &A with the core developers of Rails. Your questions; their answers.
+END:VEVENT
+END:VCALENDAR
