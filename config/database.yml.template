@@ -1,0 +1,19 @@
+login: &login
+  adapter: mysql
+  username: sgt_railsconf
+  password: fafewa28D
+
+# Warning: The database defined as 'test' will be erased and
+# re-generated from your development database when you run 'rake'.
+# Do not set this db to the same as development or production.
+development:
+  <<: *login
+  database: sgt_railsconf_development
+
+test:
+  <<: *login
+  database: sgt_railsconf_test
+
+production:
+  <<: *login
+  database: sgt_railsconf
