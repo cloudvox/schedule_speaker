@@ -8,4 +8,8 @@ class Event < ActiveRecord::Base
     Event.find :all, :conditions => [ "starts_at <= ? and ends_at >= ?", 
       time_wanted, time_wanted ]
   end
+  
+  def to_s
+    "#{summary} starts at #{starts_at.strftime('%I:%M %p')} in #{location}"
+  end
 end

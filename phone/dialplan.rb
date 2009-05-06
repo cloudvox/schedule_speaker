@@ -1,3 +1,3 @@
 default {
-  sgt_railsconf
+  schedule_speaker
 }
