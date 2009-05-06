@@ -7,7 +7,7 @@ class ScheduleParserTest < ActiveSupport::TestCase
 
     assert_equal 7, Event.count
     assert_equal 5, Location.count
-    assert Event.find_by_summary 'A Hat Full of Tricks with Sinatra'
-    assert Location.find_by_name 'Ballroom B'
+    assert Event.find_by_summary('A Hat Full of Tricks with Sinatra')
+    assert Location.find_by_name('Ballroom B')
   end
 end
