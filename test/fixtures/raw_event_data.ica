@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+X-WR-CALNAME:RailsConf 2009
+VERSION:2.0
+PRODID:Expectnation
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090504T120000
+DTSTART;TZID=US/Pacific:20090504T083000
+DTSTAMP:20090506T005433
+LOCATION:Ballroom A
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7787
+UID:http://railsconf.com/--s2009-05-04-08:30--7787
+SUMMARY:JRuby on Rails
+DESCRIPTION:Presented by Nick Sieger (Sun Microsystems, Inc.). Get an in
+ troduction to the JRuby ecosystem and all it offers for Rails developmen
+ t and deployment, including setup, gems, java integration, application s
+ ervers, virtual machine tuning, custom embedding, and more.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090504T120000
+DTSTART;TZID=US/Pacific:20090504T083000
+DTSTAMP:20090505T235302
+LOCATION:Ballroom B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7364
+UID:http://railsconf.com/--s2009-05-04-08:30--7364
+SUMMARY:A-Z Introduction to Ruby on Rails
+DESCRIPTION:Presented by Robert Dempsey (Atlantic Dominion Solutions). M
+ any come to RailsConf without being in the Rails world for very long, an
+ d are looking for a simple introduction to get started. Robert Dempsey w
+ ill take you through the A-Z introduction to Rails, from MVC to what's w
+ here in a Rails app.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090504T120000
+DTSTART;TZID=US/Pacific:20090504T083000
+DTSTAMP:20090506T005439
+LOCATION:Pavilion 2 - 3
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7763
+UID:http://railsconf.com/--s2009-05-04-08:30--7763
+SUMMARY:Running the Show: Configuration Management with Chef
+DESCRIPTION:Presented by Edd Dumbill (O'Reilly Media, Inc. ). Few comple
+ ted Rails apps are architecturally simple. As soon as you grow, you find
+  yourself using multiple subsystems and machines to scale, creating new 
+ headaches in configuration management. Help is at hand! This tutorial in
+ troduces Chef, a modern Ruby-based open source approach to systems integ
+ ration. Chef lets you manage your servers by writing code, not running c
+ ommands.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090504T120000
+DTSTART;TZID=US/Pacific:20090504T083000
+DTSTAMP:20090506T005424
+LOCATION:Pavilion 9 - 10
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7589
+UID:http://railsconf.com/--s2009-05-04-08:30--7589
+SUMMARY:jQuery on Rails
+DESCRIPTION:Presented by Yehuda Katz (Engine Yard Inc.). Coming soon.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090504T170000
+DTSTART;TZID=US/Pacific:20090504T083000
+DTSTAMP:20090130T185033
+LOCATION:Pavilion 4
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/8009
+UID:http://railsconf.com/--s2009-05-04-08:30--8009
+SUMMARY:Caboose Conf
+DESCRIPTION:CabooseConf is the free, hacker-focused part of RailsConf. S
+ killed Rails coders from all over the world will meet in one room to net
+ work, hack and work on their rails projects.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090504T170000
+DTSTART;TZID=US/Pacific:20090504T133000
+DTSTAMP:20090506T003757
+LOCATION:Ballroom A
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7786
+UID:http://railsconf.com/--s2009-05-04-13:30--7786
+SUMMARY:Testing, Design, and Refactoring
+DESCRIPTION:Presented by Jim Weirich (EdgeCase LLC), Joe O'Brien (EdgeCa
+ se, LLC). Everyone seems to be on the TDD/BDD bandwagon these days.  We 
+ have gotten very good at the first two phases of the Red/Green/Refactor 
+ cycle.  But in our push toward releasing new code and functionality, som
+ etimes the Refactor phase gets the short end of the stick. Sadly, withou
+ t refactoring, our code base can quickly become a nightmare of highly co
+ upled, highly redundant code.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20090504T170000
+DTSTART;TZID=US/Pacific:20090504T133000
+DTSTAMP:20090506T005449
+LOCATION:Ballroom B
+URL:http://en.oreilly.com/rails2009/public/schedule/detail/7590
+UID:http://railsconf.com/--s2009-05-04-13:30--7590
+SUMMARY:A Hat Full of Tricks with Sinatra
+DESCRIPTION:Presented by Blake Mizerany (Heroku). Sinatra is Ruby's most
+  powerful and agile micro-framework.  This small package packs a huge pu
+ nch.  Learn why you need this tool on your belt and how to use it proper
+ ly.
+END:VEVENT
