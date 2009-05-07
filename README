@@ -3,8 +3,7 @@
 1. Create DB tablespaces, edit config/database.yml, and run: rake db:migrate
 
 2. Import events: rake import_events FILENAME=doc/railsconf09_schedule.ica
-3. Edit phone/config/startup.rb to set Asterisk/Cloudvox settings and Rails env
-   (see phone/config/startup.rb.template)
+3. Edit phone/config/startup.rb to set Rails environment
 
 4. Start Rails:      script/server -d
 5. Start Adhearsion: ahn start phone/
@@ -13,7 +12,7 @@
 .. then call it and enjoy.
 
 
-Code: http://github.com/sevenscale/sgt_railsconf
+Code: http://github.com/cloudvox/schedule_speaker
 Questions: http://help.cloudvox.com/
 Phone call API: http://cloudvox.com/
 
